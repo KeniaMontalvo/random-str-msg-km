@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-km",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kenia Montalvo <kenlimonra@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-km": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
